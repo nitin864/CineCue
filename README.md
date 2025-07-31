@@ -18,7 +18,7 @@ CineCue is a sleek and intuitive movie app that allows users to explore the worl
 
 - **React Native**
 - **Expo**
-- **TMDB API** (or another movie database)
+- **TMDB API**
 - **JavaScript**
 - **Tailwind CSS**  
 
